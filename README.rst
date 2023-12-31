@@ -8,6 +8,6 @@ Project Setup
 2. Install Poetry_ and run ``poetry install``.
 
   .. _Poetry: https://python-poetry.org/docs/#installing-with-the-official-installer/
-   :target: _blank
+   .. |target| replace:: _blank
 
 3. Run command, ``poetry run python manage.py runserver``
