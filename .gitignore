@@ -86,5 +86,9 @@ target/
 __pycache__/
 local_settings.py
 
+.env.dev
 .env
 db.sqlite3
+
+# Docker Utility
+postgres_data/
