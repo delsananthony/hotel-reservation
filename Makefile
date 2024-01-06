@@ -1,2 +1,3 @@
-runserver:
-	poetry run py manage.py runserver
+.PHONY: run
+run:
+	docker-compose up
