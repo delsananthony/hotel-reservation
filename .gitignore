@@ -88,7 +88,11 @@ local_settings.py
 
 .env.dev
 .env
+.idea
+.idea/*
 db.sqlite3
 
 # Docker Utility
 postgres_data/
+
+*/migrations/
